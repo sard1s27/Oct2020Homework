@@ -10,9 +10,9 @@ I started this **crazy** whirlwind class last week. Life _Monday through Thursda
 [This is a webpage of a dog video](https://www.youtube.com/watch?v=Mmke73EQZ08)
 
 1. Bread
-  1. Wheat
-  2. White
-  3. Sourdough
+    1. Wheat
+    2. White
+    3. Sourdough
 2. Milk
 3. Orange Juice
 4. Sugar
